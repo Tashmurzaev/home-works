@@ -1,14 +1,12 @@
 import React from 'react';
-import Component from './HW-40/Component';
+import UseRender from './HW-44/UseRender';
 import './App.css'
 
 
 function App() {
   return (
     <div className="wrapper">
-      <Component/>
-    
-      
+      <UseRender/>
     </div>
   );
 }

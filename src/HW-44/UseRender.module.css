@@ -1,0 +1,34 @@
+.container {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.cards {
+  border: 1px solid black;
+  height: 30vh;
+  width: 30vw;
+  border-radius: 1px;
+  border-color: rgb(108, 5, 156);
+  margin: 5px 5px 5px 5px;
+  padding: 5px 5px 5px 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+}
+
+.url {
+  border-radius: 1px;
+  border: 1px solid rgb(7, 7, 7);
+  height: 10vh;
+ display: flex;
+ align-items: center;
+  
+  
+}
